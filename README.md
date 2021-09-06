@@ -1,4 +1,4 @@
-# meditation
+# Meditation
 The maditation is a tool to start a concise meditation with simple operations.
 
 # Dependencies
