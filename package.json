@@ -1,7 +1,7 @@
 {
-  "name": "npm-meditation",
+  "name": "meditation",
   "version": "1.0.0",
-  "description": "The npm-maditation is a tool to start a concise meditation with simple operations.",
+  "description": "The maditation is a tool to start a concise meditation with simple operations.",
   "main": "meditation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
