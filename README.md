@@ -1,4 +1,4 @@
-# Meditation
+# S imple-meditation-app
 The maditation is a tool to start a concise meditation with simple operations.
 
 # Dependencies
@@ -7,7 +7,7 @@ The maditation is a tool to start a concise meditation with simple operations.
  # Installation
 ```
 $ cd ~
-$ npm install npm-meditation
+$ npm install simple-meditation-app
 ```
 
 # Usage

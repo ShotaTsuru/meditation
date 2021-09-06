@@ -1,6 +1,6 @@
 {
-  "name": "meditation",
-  "version": "1.0.0",
+  "name": "simple-meditation-app",
+  "version": "1.1.0",
   "description": "The maditation is a tool to start a concise meditation with simple operations.",
   "main": "meditation.js",
   "scripts": {
@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShotaTsuru/npm-meditation.git"
+    "url": "git+https://github.com/ShotaTsuru/meditation.git"
   },
   "bugs": {
-    "url": "https://github.com/ShotaTsuru/npm-meditation/issues"
+    "url": "https://github.com/ShotaTsuru/meditation/issues"
   },
-  "homepage": "https://github.com/ShotaTsuru/npm-meditation#readme",
+  "homepage": "https://github.com/ShotaTsuru/meditation#readme",
   "dependencies": {
     "node-wav-player": "^0.2.0"
   },

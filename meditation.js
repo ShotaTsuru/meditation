@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const player = require('node-wav-player');
 function playSound(path) {
   return new Promise((resolve, reject) => {
