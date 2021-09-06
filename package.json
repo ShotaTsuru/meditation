@@ -1,12 +1,19 @@
 {
-  "name": "my-module",
+  "name": "npm-meditation",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "meditation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "private": "false"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShotaTsuru/npm-meditation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShotaTsuru/npm-meditation/issues"
+  },
+  "homepage": "https://github.com/ShotaTsuru/npm-meditation#readme"
 }
