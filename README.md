@@ -1,5 +1,5 @@
-# npm-meditation
-The npm-maditation is a tool to start a concise meditation with simple operations.
+# meditation
+The maditation is a tool to start a concise meditation with simple operations.
 
 # Dependencies
  "node-wav-player": "^0.2.0"
