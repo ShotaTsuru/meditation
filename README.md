@@ -11,5 +11,9 @@ $ npm install simple-meditation-app
 ```
 
 # Usage
+```
+$ cd ./node_modules/simple-meditation-app 
+$ node meditation.js
+```
 Enter a number for how many minutes you will meditate.
 You will then hear a signal to start and end.
