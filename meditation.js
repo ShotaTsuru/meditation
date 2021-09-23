@@ -29,7 +29,7 @@ function playMusic(path) {
 
 function playMeditation(num) {
   playSound('meditation.mp3')
-  let time = num * 60 * 1000
+  const time = num * 60 * 1000
   setTimeout(playMusic, 10000, 'meditation2.mp3')
   setTimeout(() => {
     player.stop();
