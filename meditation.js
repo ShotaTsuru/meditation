@@ -38,7 +38,6 @@ function playMeditation(num) {
 }
 
 const { NumberPrompt } = require('enquirer');
-const { play } = require('node-wav-player');
  
 const prompt = new NumberPrompt({
   name: 'number',
